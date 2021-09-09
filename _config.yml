@@ -45,17 +45,17 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: python, react, database ...
+  name: python, react, database...
 copyright: 
   year: 2021
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  msg: Roykimm # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: true # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: 김명훈(Kim Myung Hoon)
+  name: 김명훈
   bio: 4년차 개발자 김명훈입니다.
   email: roykimmyunghoon@gmail.com
   photo: /assets/img/profile.png
@@ -131,7 +131,7 @@ plugins:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: rgvr
+    shortname: roykimm
 
 markdown: kramdown
 
