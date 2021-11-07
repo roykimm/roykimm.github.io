@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: python, react, database...
+  name: python, react, svelte, database
 copyright: 
   year: 2021
   msg: Roykimm # This is a mandatory attribute for copyright to be displayed
@@ -56,7 +56,7 @@ user:
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: 김명훈
-  bio: 4년차 개발자 김명훈입니다.
+  bio: 개발자 김명훈 입니다.
   email: roykimmyunghoon@gmail.com
   photo: /assets/img/profile.png
   alt_link: #rgvr.me
